@@ -1,10 +1,3 @@
-- 👋 Hi, This is @naikigai. I'm just a regular, everyday, normal developer. 
-- 👀 I’m interested in Rust , Go , Databases , Distributed Systems.
-- 🌱 I’m currently learning Database Design and Implementation along with other devs using a google group. 
-- 💞️ I’m looking to collaborate on building anything in Rust.
-- 📫 How to reach me - check my 'x' profile
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: ikigai means purpose in life. People who have ikigai tend to live longer and happier. 
 
 <!---
 naikigai/naikigai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
